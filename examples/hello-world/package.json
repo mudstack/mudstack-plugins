@@ -1,0 +1,15 @@
+{
+  "name": "mudstack-example-hello-world",
+  "version": "1.0.0",
+  "description": "Minimal Mudstack plugin example",
+  "main": "index.js",
+  "author": "Mudstack",
+  "license": "MIT",
+  "keywords": ["mudstack", "plugin", "example"],
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "dependencies": {
+    "@mudstack/plugins": "^1.0.0"
+  }
+}

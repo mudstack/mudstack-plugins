@@ -1,0 +1,1 @@
+{"name":"my-mudstack-plugin","version":"1.0.0","description":"A Mudstack plugin (rename me)","main":"index.js","author":"","license":"MIT","keywords":["mudstack","plugin"],"engines":{"node":">=16.0.0"},"dependencies":{"@mudstack/plugins":"^1.0.0"}}
