@@ -1,0 +1,25 @@
+{
+  "id": "com.mudstack.example.context-menu",
+  "name": "Context Menu Example",
+  "version": "1.0.0",
+  "description": "Adds a context menu command and handles the event when the user runs it",
+  "author": "Mudstack",
+  "main": "index.js",
+  "enabled": true,
+  "dependencies": [],
+  "subscriptions": [
+    {
+      "event": "com.mudstack.example.context-menu.say-hello",
+      "handler": "handleSayHello"
+    }
+  ],
+  "registrations": [],
+  "contextMenuCommands": [
+    {
+      "id": "com.mudstack.example.context-menu.say-hello",
+      "title": "Say Hello (example)",
+      "description": "Example context menu command from the context-menu-example plugin",
+      "eventType": "com.mudstack.example.context-menu.say-hello"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "com.mudstack.example.hello-world",
+  "name": "Hello World Example",
+  "version": "1.0.0",
+  "description": "Minimal Mudstack plugin that logs on activate/deactivate",
+  "author": "Mudstack",
+  "main": "index.js",
+  "enabled": true,
+  "dependencies": [],
+  "subscriptions": [],
+  "registrations": []
+}

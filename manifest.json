@@ -1,0 +1,1 @@
+{"id":"com.example.my-mudstack-plugin","name":"My Mudstack Plugin","version":"1.0.0","description":"A Mudstack plugin (rename me)","author":"","main":"index.js","enabled":true,"dependencies":[],"subscriptions":[],"registrations":[]}
